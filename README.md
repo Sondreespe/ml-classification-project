@@ -43,13 +43,13 @@ jupyter notebook project2.ipynb
 
 ## Prosjektstruktur
 
-\```
+```
 ml-classification-project/
 ├── project2.ipynb          # Hovednotebook med alle oppgaver
 ├── dataset.npz             # Originalt datasett
 ├── dataset_corrupted.npz   # Korrupt datasett (brukes i oppgave 3)
 └── README.md
-\```
+```
 
 
 
